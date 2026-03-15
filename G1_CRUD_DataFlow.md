@@ -1,6 +1,4 @@
-# G1_CRUD_DataFlow
-
-
+## 1️⃣ CREATE — Resource Sequence Diagram
 
 ```mermaid
 sequenceDiagram
@@ -34,7 +32,7 @@ sequenceDiagram
     end
 ```
 
-
+## 2️⃣ READ — Resource Sequence Diagram
 
 ```mermaid
 sequenceDiagram
@@ -59,6 +57,7 @@ sequenceDiagram
     end
 ```
 
+## 3️⃣ UPDATE — Resource Sequence Diagram
 
 
 ```mermaid
@@ -92,7 +91,7 @@ sequenceDiagram
     end
 ```
 
-
+## 4️⃣ DELETE — Resource Sequence Diagram
 
 ```mermaid
 sequenceDiagram
